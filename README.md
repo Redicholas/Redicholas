@@ -1,8 +1,6 @@
-Hey there! I´m Nicholas, a 34 year year old student of Frontend Development.
-I recently started studying at Medieinstitutet and I´m very excited to learn as much as I can, as soon as I can!
+Hi there! I'm Nicholas, a 34-year-old student of Frontend Development currently studying at Medieinstitutet. I'm excited to learn as much as possible and to apply my skills in a real-world setting.
 
-I will be starting my first apprenticeship period in the autumn of 2023, and would love to find a medium sized company, in Gothenburg, or with the possibility of remote work, where I can focus on making easy to use and intuitive web experiences.
-I am learning more everyday about what I think is fun to work with so I am open to any recommendations!
+In the autumn of 2023, I will be starting my first apprenticeship period and am actively seeking opportunities to work with a medium-sized company, preferably in Gothenburg or with the possibility of remote work. My goal is to create easy-to-use and intuitive web experiences for users. I am open to any recommendations or suggestions for companies or projects that align with my interests and skills.
 <!---
 Redicholas/Redicholas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
